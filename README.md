@@ -68,8 +68,8 @@ reference,fast5_dir,output_dir,config,barcode,barcode_values
 To run the Python script, use the following command:
 
 ```sh
-git clone https://github.com/madhubioinfo/poresippr_code.git
-cd poresippr_code
+git clone https://github.com/OLC-Bioinformatics/Poresippr_code.git
+cd Poresippr_code
 python poresippr_basecall_scheduler.py input.csv
 
 To run the script as a Singularity container, use the following command:
