@@ -67,7 +67,7 @@ Metadata CSV file containing the following information is needed. It should incl
 - Barcode numbers 
 - OLC strain ids
   
-`Metadata.csv`:
+`metadata.csv`:
 
 ```csv
 Barcode,SEQID,OLNID
